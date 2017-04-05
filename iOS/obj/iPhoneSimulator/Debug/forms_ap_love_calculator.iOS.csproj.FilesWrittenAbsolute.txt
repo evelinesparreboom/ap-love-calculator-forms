@@ -1,0 +1,15 @@
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/bin/iPhoneSimulator/Debug/forms_ap_love_calculator.iOS.exe.mdb
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/bin/iPhoneSimulator/Debug/forms_ap_love_calculator.iOS.exe
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/obj/iPhoneSimulator/Debug/forms_ap_love_calculator.iOS.exe
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/obj/iPhoneSimulator/Debug/forms_ap_love_calculator.iOS.exe.mdb
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/bin/iPhoneSimulator/Debug/forms_ap_love_calculator.dll
+/Users/esparreboom/Projects/forms_ap_love_calculator/iOS/bin/iPhoneSimulator/Debug/forms_ap_love_calculator.dll.mdb

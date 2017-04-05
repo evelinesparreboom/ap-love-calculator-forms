@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A070FBC0-9933-4FF7-B907-F08B540B2682}|Default">
+  <MonoDevelop.Ide.ItemProperties.forms__ap__love__calculator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.144A2F43-22FE-414A-B4D1-B2DDFC41A0DC" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="forms_ap_love_calculator/EmptyClass.cs">
+    <Files>
+      <File FileName="forms_ap_love_calculator/MainPage.xaml.cs" Line="11" Column="3" />
+      <File FileName="forms_ap_love_calculator/App.xaml.cs" Line="30" Column="3" />
+      <File FileName="forms_ap_love_calculator/EmptyClass.cs" Line="7" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
