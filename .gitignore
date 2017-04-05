@@ -1,0 +1,11 @@
+packages
+bin
+obj
+output
+tools
+externals
+**/Resources/Resource.designer.cs
+*.userprefs
+*.dll
+
+.DS_Store
