@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Diagnostics.Contracts;
 using System.Text;
+using System.Threading.Tasks;
+using Lamp.Plugin;
 
 namespace Core
 {
@@ -59,8 +61,28 @@ namespace Core
 			{
 				return "infinity";
 			}
-
+			else if (int.Parse(newLoveResult.ToString()) > 50)
+			{
+			 	blink();
+			}
 			return newLoveResult.ToString();
+		}
+
+		private static void blink()
+		{
+			for (int i = 0; i < 20; i++)
+			{
+				if (i % 2 == 0)
+				{
+					CrossLamp.Current.TurnOn();
+
+				}
+				else
+				{
+					CrossLamp.Current.TurnOff();
+				}
+				Task.Delay(500);
+			}
 		}
 	}
 }

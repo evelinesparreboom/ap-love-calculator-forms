@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>forms_ap_love_calculator</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.albelli.forms_ap_love_calculator</string>
+	<string>com.albelli.forms-ap-love-calculator</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>

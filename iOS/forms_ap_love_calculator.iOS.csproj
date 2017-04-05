@@ -70,14 +70,14 @@
     <DefineConstants>DEBUG;ENABLE_TEST_CLOUD;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignKey>iPhone Developer: eveline.sparreboom@albelli.com (ZD876Z2776)</CodesignKey>
     <DeviceSpecificBuild>true</DeviceSpecificBuild>
     <MtouchDebug>true</MtouchDebug>
     <MtouchFastDev>true</MtouchFastDev>
     <MtouchUseSGen>true</MtouchUseSGen>
     <MtouchUseRefCounting>true</MtouchUseRefCounting>
     <MtouchFloat32>true</MtouchFloat32>
-    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <CodesignEntitlements></CodesignEntitlements>
     <MtouchLink>SdkOnly</MtouchLink>
     <MtouchArch>ARMv7, ARM64</MtouchArch>
     <MtouchHttpClientHandler>HttpClientHandler</MtouchHttpClientHandler>
@@ -100,6 +100,12 @@
     </Reference>
     <Reference Include="Xamarin.Forms.Xaml">
       <HintPath>..\packages\Xamarin.Forms.2.3.3.193\lib\Xamarin.iOS10\Xamarin.Forms.Xaml.dll</HintPath>
+    </Reference>
+    <Reference Include="Lamp.Plugin.Abstractions">
+      <HintPath>..\packages\kphillpotts.Lamp.Plugin.1.0.0.1\lib\Xamarin.iOS10\Lamp.Plugin.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Lamp.Plugin">
+      <HintPath>..\packages\kphillpotts.Lamp.Plugin.1.0.0.1\lib\Xamarin.iOS10\Lamp.Plugin.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

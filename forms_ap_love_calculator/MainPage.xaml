@@ -14,7 +14,7 @@
                      Orientation="Vertical"
 					Padding="20,60,20,60"
                      Spacing="15" BackgroundColor="#FF6A13">
-			<Image Source="logo-albelli-white.png" WidthRequest="50" HeightRequest="50" />
+			<Image Source="logo-albelli-white.png" WidthRequest="70" HeightRequest="70" />
 			<Entry x:Name="person1nameText" 
 					Text="" 
 					TextColor="#FFFFFF" 
