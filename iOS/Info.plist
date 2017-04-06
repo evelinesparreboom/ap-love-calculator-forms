@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>forms_ap_love_calculator</string>
+	<string>albelli love</string>
 	<key>CFBundleName</key>
 	<string>forms_ap_love_calculator</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.albelli.forms-ap-love-calculator</string>
+	<string>com.albelli.forms-ap-love-calculator1</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -40,11 +40,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>XSAppIconAssets</key>
-	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>arc.ttf</string>
 	</array>
+	<key>XSAppIconAssets</key>
+	<string>Resources/Media.xcassets/AppIcons.appiconset</string>
 </dict>
 </plist>
