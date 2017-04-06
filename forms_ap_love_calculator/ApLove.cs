@@ -63,14 +63,14 @@ namespace Core
 			}
 			else if (int.Parse(newLoveResult.ToString()) > 50)
 			{
-			 	blink();
+			 	//blink();
 			}
 			return newLoveResult.ToString();
 		}
 
 		private static void blink()
 		{
-			for (int i = 0; i < 20; i++)
+			for (int i = 0; i < 30; i++)
 			{
 				if (i % 2 == 0)
 				{
@@ -81,7 +81,7 @@ namespace Core
 				{
 					CrossLamp.Current.TurnOff();
 				}
-				Task.Delay(500);
+				Task.Delay(700);
 			}
 		}
 	}

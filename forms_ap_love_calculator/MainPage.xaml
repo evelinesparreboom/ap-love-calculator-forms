@@ -3,10 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="forms_ap_love_calculator.MainPage">
      <ContentPage.Padding>
-        <OnPlatform x:TypeArguments="Thickness"
-                    iOS="0"
-                    Android="0"
-                    WinPhone="0" />
+        <OnPlatform x:TypeArguments="Thickness" />
      </ContentPage.Padding>
     <ContentPage.Content>
         <StackLayout VerticalOptions="FillAndExpand"
@@ -19,7 +16,7 @@
 					Text="" 
 					TextColor="#FFFFFF" 
 					BackgroundColor="#FF6A13" 
-					HorizontalTextAlignment="Center" />
+					HorizontalTextAlignment="Center" Focused="Person1Focussed" />
             <Label Text="L O V E S" 
 					TextColor="#FFFFFF" 
 					HorizontalTextAlignment="Center" />
@@ -27,6 +24,16 @@
 					Text="" TextColor="#FFFFFF" 
 					BackgroundColor="#FF6A13" 
 					HorizontalTextAlignment="Center" />
+            <Picker x:Name="contactPicker"
+                    IsVisible="False" TextColor="#FFFFFF" Title="Select a contact" SelectedIndexChanged="ContactPicker_OnSelectedIndexChanged"
+                    BackgroundColor="Transparent"
+                    VerticalOptions="Fill" Unfocused="ContactPicker_OnUnfocused"
+                />
+            <Button x:Name="btnGetFromContacts" 
+                    Text="GetFromContactList" 
+                    TextColor="#FFFFFF" 
+                    BackgroundColor="#38BFC4" 
+                    Clicked="BtnGetFromContacts_OnClicked" IsVisible="False" Opacity="0" />
             <Button x:Name="btnLoveCalc" 
 					Text="Calculate" 
 					TextColor="#FFFFFF" 

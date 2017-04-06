@@ -6,8 +6,6 @@
 	<string>forms_ap_love_calculator</string>
 	<key>CFBundleName</key>
 	<string>forms_ap_love_calculator</string>
-	<key>CFBundleIdentifier</key>
-	<string>com.albelli.forms-ap-love-calculator</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -46,5 +44,9 @@
 	<array>
 		<string>arc.ttf</string>
 	</array>
+	<key>NSContactsUsageDescription</key>
+	<string>So we can get the contact to love...check...</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.albelli.forms-ap-love-calculator1</string>
 </dict>
 </plist>
